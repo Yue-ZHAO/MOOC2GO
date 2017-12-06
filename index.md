@@ -1,15 +1,17 @@
 ## Study description
 
-Currently, Massive Open Online Courses (MOOCs) can be accessed on not only desktop/laptop computers but also mobile devices. This study mainly focuses on understanding the impact of learning on-the-go in mobile MOOC learning. Participants will be asked to do questionnaires and to learn miniMOOCs with a mobile phone while sitting in the lab, or while walking to a supermarket.
+Currently, Massive Open Online Courses (MOOCs) can be accessed on not only desktop/laptop computers but also mobile devices. Participants of the study will be asked to fill out questionnaires and to learn mini-MOOCs with a mobile phone while sitting in the lab and while through the campus to a preset destination and back.
 
 ## Instructions
-1. Before the study, the participant will be asked to fill a questionnaire about the previous experience on MOOC learning and mobile learning.
-2. Then the participants will be assigned two learning tasks under different conditions (i.e. learning in the lab and learning while walking).
-3. Before and after each learning task, there will be questionnaires about the pre/post-knowledge and perceptions.
-4. During the learning task, the participant will use a mobile device to learn miniMOOCs while sitting in the lab, or while walking to a supermarket.
+1. Before the study participants will be asked to fill out a questionnaire about their previous experience on MOOC learning and mobile learning.
+2. Then participants will be assigned to perform two learning tasks – one to perform in the lab while sitting, and the other while walking outside.
+3. After each learning task participants are asked to fill out a questionnaire about the particular learning task.
+4. During the learning task, participants will use a mobile device (a smartphone) to learn mini-MOOCs.
 
 ## Participant requirements
 * Participants should be able to use a mobile phone for watching videos and reading the text while walking.
+* Participants are advised to bring their own headphones (without the noise-canceling function) with a 3.5mm plug.
+* Participants can take their gloves if needed. We can provide a stylus pen.
 
 ## Study Information
 * Study language: English
@@ -19,14 +21,25 @@ Currently, Massive Open Online Courses (MOOCs) can be accessed on not only deskt
 * Location: Faculteit Elektrotechniek, Wiskunde en Informatica, Mekelweg 4, 2628 CD Delft, Netherlands
 
 ## How to sign up
-1. Please sent an email to [Yue Zhao](https://yue-zhao.github.io/) (y.zhao-1@tudelft.nl) to indicate that you want to sign up for the study.
-2. Yue will reply you an email with the available experiment time.
-3. If you can find suitable experiment time for you, please reply the email to confirm it with Yue.
+1. Please send an email to [Yue Zhao](https://yue-zhao.github.io/) (y.zhao-1@tudelft.nl) with keyword MOOC2Go on the subject line to indicate that you want to participate in the MOOC2Go study.
+2. You will get a reply with available experiment time(s).
+3. If the experiment time suits you, please reply to the email and we enroll you in the study.
 
 ## About the researchers
-We are researchers from [the WIS group](http://www.wis.ewi.tudelft.nl/), [EWI, TU Delft](https://www.tudelft.nl/en/ewi/). Our research mainly focuses on understanding MOOC learners behaviors based on data analysis. 
+We are researchers from [the WIS group](http://www.wis.ewi.tudelft.nl/), [EWI, TU Delft](https://www.tudelft.nl/en/ewi/).
 
-## Contact Info
-If you have any questions, please feel free to contact us.
+## Contact for further information
 
-Yue Zhao: y.zhao-1@tudelft.nl
+For further information, please contact:
+
+Yue Zhao, PhD student in WIS group  
+Department of Software Technology  
+Email. y.zhao-1@tudelft.nl  
+
+In case of a complaint please contact:
+
+Assistant Professor Claudia Hauff  
+Email. c.hauff@tudelft.nl
+
+Assistant Professor Christoph Lofi  
+Email. c.lofi@tudelft.nl
