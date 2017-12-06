@@ -19,12 +19,12 @@ Currently, Massive Open Online Courses (MOOCs) can be accessed on not only deskt
 * Location: Faculteit Elektrotechniek, Wiskunde en Informatica, Mekelweg 4, 2628 CD Delft, Netherlands
 
 ## How to sign up
-1. Please sent an email to Yue Zhao (y.zhao-1@tudelft.nl) to indicate that you want to sign up for the study.
+1. Please sent an email to [Yue Zhao](https://yue-zhao.github.io/) (y.zhao-1@tudelft.nl) to indicate that you want to sign up for the study.
 2. Yue will reply you an email with the available experiment time.
 3. If you can find suitable experiment time for you, please reply the email to confirm it with Yue.
 
 ## About the researchers
-We are researchers from the WIS group, EWI, TU Delft. Our research mainly focuses on understanding MOOC learners behaviors based on data analysis. 
+We are researchers from [the WIS group](http://www.wis.ewi.tudelft.nl/), [EWI, TU Delft](https://www.tudelft.nl/en/ewi/). Our research mainly focuses on understanding MOOC learners behaviors based on data analysis. 
 
 ## Contact Info
 If you have any questions, please feel free to contact us.
