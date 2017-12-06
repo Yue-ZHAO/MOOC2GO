@@ -11,7 +11,6 @@ Currently, Massive Open Online Courses (MOOCs) can be accessed not only on deskt
 ## Participant requirements
 * Participants should be able to use a mobile phone for watching videos and reading the text while walking.
 * Participants are advised to bring their own headphones with a 3.5mm plug.
-* Participants can take their gloves if needed. We can provide a stylus pen.
 
 ## Study Information
 * Study language: English
