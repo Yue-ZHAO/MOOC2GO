@@ -14,7 +14,7 @@ Currently, Massive Open Online Courses (MOOCs) can be accessed on not only deskt
 ## Study Information
 * Study language: English
 * Total time: About 90-100 min(s) to complete 
-* Payment for you: Cash €15
+* Payment for you: €15
 * Period: From Dec 11, 2017 to Dec 22, 2017
 * Location: Faculteit Elektrotechniek, Wiskunde en Informatica, Mekelweg 4, 2628 CD Delft, Netherlands
 
