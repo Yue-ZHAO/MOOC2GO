@@ -1,6 +1,6 @@
 ## Study description
 
-Currently, Massive Open Online Courses (MOOCs) can be accessed on not only desktop/laptop computers but also mobile devices. Participants of the study will be asked to fill out questionnaires and to learn mini-MOOCs with a mobile phone while sitting in the lab and while through the campus to a preset destination and back.
+Currently, Massive Open Online Courses (MOOCs) can be accessed not only on desktop/laptop computers but also on mobile devices. Participants of the study will be asked to fill out questionnaires and to learn mini-MOOCs with a mobile phone while sitting in the lab and while through the campus to a preset destination and back.
 
 ## Instructions
 1. Before the study participants will be asked to fill out a questionnaire about their previous experience on MOOC learning and mobile learning.
